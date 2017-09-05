@@ -1,0 +1,7 @@
+Command-line tool to connect to an LDAP server and recursively expand a group to print all its members.
+
+This is currently heavily geared towards Active Directory. Adjust as needed.
+
+Need to add support for a configuration file. For now, you may want to hardcode most of the parameters in the source file to avoid having to give them on the command line.
+
+/Hans Liss - Hans@Liss.pp.se
